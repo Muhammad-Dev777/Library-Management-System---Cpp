@@ -1,0 +1,11 @@
+/build/
+/test-results/
+*.exe
+*.o
+*.obj
+*.db.tmp
+*.db.bak
+/data/exports/
+/exports/
+/data/private*.db
+__pycache__/
