@@ -3,7 +3,7 @@
 A C++17 console application for managing books, members, and borrowing records. Includes persistent storage, copy availability, renewals, due dates, overdue fines, search, and CSV reports.
 
 
-![Preview rendered from actual program output](docs/demo-preview.png)
+![Library Management System preview](docs/demo-preview.png)
 
 ## Features
 
