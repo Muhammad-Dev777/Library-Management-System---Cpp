@@ -1,0 +1,81 @@
+
+LIBRARY MANAGEMENT SYSTEM
+Demo date override: 2026-10-12
+
+1. Books
+2. Members
+3. Issue / return / renew
+4. Reports
+0. Exit
+Choose: 
+BOOKS
+1. List
+2. Search
+3. Add
+4. Edit
+5. Delete
+0. Back
+Choose: ID    Title                            Author                 Category          Free/Total
+1     Programming Foundations          A. Example             Computer Science  2/3
+2     Data Structures in Practice      B. Example             Computer Science  1/2
+3     Database Design Workbook         C. Example             Computer Science  2/2
+4     Discrete Mathematics Essentials  D. Example             Mathematics       2/2
+5     A Student's Guide to Astronomy   E. Example             Science           1/1
+6     Stories from an Imaginary City   F. Example             Fiction           1/2
+7     Project Planning Basics          G. Example             Management        1/1
+8     Learning C++ Through Projects    H. Example             Computer Science  2/2
+8 book title(s) displayed.
+
+BOOKS
+1. List
+2. Search
+3. Add
+4. Edit
+5. Delete
+0. Back
+Choose: 
+1. Books
+2. Members
+3. Issue / return / renew
+4. Reports
+0. Exit
+Choose: 
+REPORTS
+1. Dashboard
+2. Overdue loans
+3. Member loan history
+4. Export CSV
+0. Back
+Choose: 
+SUMMARY AS OF 2026-10-12
+Book titles: 8 | Total copies: 15 | Available copies: 12
+Members: 4 | Active loans: 3 | Overdue loans: 1
+Estimated overdue fines: PKR 80
+Historical assessed fines: PKR 20
+Fine amounts are assessments only; this application does not record payments.
+
+REPORTS
+1. Dashboard
+2. Overdue loans
+3. Member loan history
+4. Export CSV
+0. Back
+Choose: Loan #1 | Book #1: Programming Foundations | Member #1: Demo Student One
+Issued: 2026-09-20 | Due: 2026-10-04 | Returned: - | Renewals: 0
+Estimated fine: PKR 80
+---
+1 loan(s) displayed.
+
+REPORTS
+1. Dashboard
+2. Overdue loans
+3. Member loan history
+4. Export CSV
+0. Back
+Choose: 
+1. Books
+2. Members
+3. Issue / return / renew
+4. Reports
+0. Exit
+Choose: Goodbye! All confirmed changes are saved.

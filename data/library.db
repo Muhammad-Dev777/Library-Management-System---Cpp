@@ -1,0 +1,19 @@
+LIBRARY_DB 1
+NEXT 9 5 5
+BOOK 1 "Programming Foundations" "A. Example" "Computer Science" 3
+BOOK 2 "Data Structures in Practice" "B. Example" "Computer Science" 2
+BOOK 3 "Database Design Workbook" "C. Example" "Computer Science" 2
+BOOK 4 "Discrete Mathematics Essentials" "D. Example" "Mathematics" 2
+BOOK 5 "A Student's Guide to Astronomy" "E. Example" "Science" 1
+BOOK 6 "Stories from an Imaginary City" "F. Example" "Fiction" 2
+BOOK 7 "Project Planning Basics" "G. Example" "Management" 1
+BOOK 8 "Learning C++ Through Projects" "H. Example" "Computer Science" 2
+MEMBER 1 "Demo Student One" "student1@example.com"
+MEMBER 2 "Demo Student Two" "student2@example.com"
+MEMBER 3 "Demo Student Three" "student3@example.com"
+MEMBER 4 "Demo Student Four" "student4@example.com"
+LOAN 1 1 1 2026-09-20 2026-10-04 - 0
+LOAN 2 2 2 2026-10-05 2026-10-19 - 0
+LOAN 3 3 3 2026-09-10 2026-09-24 2026-09-26 0
+LOAN 4 6 1 2026-09-25 2026-10-23 - 1
+END
