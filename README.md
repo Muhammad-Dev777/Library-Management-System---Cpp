@@ -2,7 +2,6 @@
 
 A C++17 console application for managing books, members, and borrowing records. Includes persistent storage, copy availability, renewals, due dates, overdue fines, search, and CSV reports.
 
-This is an AI-assisted learning project: the implementation and tests were generated with ChatGPT to provide a complete example for studying C++ classes, vectors, references, file handling, and relationships between records.
 
 ![Preview rendered from actual program output](docs/demo-preview.png)
 
@@ -175,8 +174,4 @@ Read `Book`, `Member`, and `Loan` first, then the `Database` structure. Follow a
 
 This version is intended for a small, local library learning project. It does not include authentication, concurrent users, barcode hardware, reservations, notifications, payment tracking, or encrypted storage. Dates, policy checks, file safety, and input validation are included, but it is not presented as production institutional software.
 
-## GitHub upload
 
-Create a repository such as `cpp-library-management-system`, extract the download bundle, and upload the **contents of `github-source`** to the repository root. Keep `.gitignore`, `.vscode`, `data`, `docs`, and `tests`. Do not upload the ZIP itself, the `windows-app` folder, private records, backups, or generated reports.
-
-Suggested description: **A C++17 library management system with books, members, loans, renewals, overdue fines, persistent storage, CSV reports, and automated tests.**
