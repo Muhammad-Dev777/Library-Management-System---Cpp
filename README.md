@@ -4,7 +4,6 @@ A C++17 console application for managing books, members, and borrowing records. 
 
 
 ![Library Management System preview](docs/demo-preview.png)
-
 ## Features
 
 | Area | Features |
